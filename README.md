@@ -1,5 +1,8 @@
- Chatbot-Movie-Recommender-
-This is my Practicum 2 project and was supervised by Dr.Busch 
+ # Chatbot-Movie-Recommender-
+## This is my Practicum 2 project and was supervised by Dr.Busch 
+# Chatbot-Movie-Recommender-
+
+
 
 •The main goal is to make the machine smartly recommends movies to the users in their own language. 
 •Develop a model to process and understand text in multiple languages.  
