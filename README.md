@@ -1,6 +1,6 @@
  # A Student who is obtaining his master's degree in Data Science at Regis University in Denver.
 
-## This is his Practicum 2 project and was supervised by Dr.Busch 
+
 # Chatbot-Movie-Recommender-
 
 
