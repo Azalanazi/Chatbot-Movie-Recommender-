@@ -1,4 +1,3 @@
- # A Student who is obtaining his master's degree in Data Science at Regis University in Denver.
 
 
 # Chatbot-Movie-Recommender-
